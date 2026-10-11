@@ -1,0 +1,6 @@
+{
+  "name": "AI Website Builder Academy",
+  "description": "Master AI-powered website creation with generative intelligence workflows. Build stunning, responsive websites with zero coding required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
